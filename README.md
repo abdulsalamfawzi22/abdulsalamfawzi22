@@ -101,8 +101,8 @@ class AbdulsalamFawzi {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamfawzi22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=cmake,c%2B%2B,swift,objective-c,ruby,shell,makefile" />
-<img height="170" src="https://streak-stats.demolab.com?user=abdulsalamfawzi22&theme=tokyonight&hide_border=true" />
+<img height="175" src="https://github-readme-stats-abdulsalamfawzi22.vercel.app/api?username=abdulsalamfawzi22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true" />
+<img height="175" src="https://github-readme-stats-abdulsalamfawzi22.vercel.app/api/top-langs/?username=abdulsalamfawzi22&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=objective-c,c%2B%2B,cmake,shell,swift,c,kotlin,makefile" />
 
 </div>
 
