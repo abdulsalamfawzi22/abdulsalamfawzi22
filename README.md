@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Abdulsalam%20Fawzi%20Alfarra&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Flutter%20%26%20Node.js&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Abdulsalam%20Fawzi%20Alfarra&fontSize=36&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Flutter%20%2B%20Node.js%20%2B%20PostgreSQL&descAlignY=57&descSize=15" width="100%" />
 
 <a href="https://github.com/abdulsalamfawzi22">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Flutter+%2B+Node.js+%2B+PostgreSQL;%D8%A3%D8%A8%D9%86%D9%8A+%D8%A3%D9%86%D8%B8%D9%85%D8%A9+%D8%A3%D8%B9%D9%85%D8%A7%D9%84+%D9%83%D8%A7%D9%85%D9%84%D8%A9+%D9%85%D9%86+%D8%A7%D9%84%D8%B5%D9%81%D8%B1;30+Projects+in+30+Days+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Flutter+%2B+Node.js+%2B+PostgreSQL;Building+complete+business+systems;30+Projects+in+30+Days+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -16,8 +16,8 @@
 class AbdulsalamFawzi {
   String role      = "Full-Stack Developer";
   String focus     = "Flutter Apps + Node.js APIs + Business Systems";
-  String languages = "العربية | English";
-  String building  = "أنظمة توصيل ومتاجر إلكترونية متكاملة";
+  String languages = "Arabic (native) | English";
+  String building  = "Delivery platforms and e-commerce systems";
 
   List<String> stack = [
     "Flutter / Dart",
@@ -25,7 +25,7 @@ class AbdulsalamFawzi {
     "React / Next.js",
     "Node.js / Express",
     "PostgreSQL / MySQL",
-    "REST APIs & Realtime",
+    "REST APIs + Realtime",
   ];
 }
 ```
@@ -34,11 +34,13 @@ class AbdulsalamFawzi {
 
 ## 🔥 Highlights
 
-- 🚚 بنيت منظومة **Monafiss** الكاملة — تطبيق عملاء + تطبيق سائقين + تطبيق مدراء + لوحة تحكم ويب
-- 🛒 طوّرت **Babk** — متجر إلكتروني متكامل (تطبيق عملاء + Dashboard + Backend)
-- 🏢 أسست الواجهة الرقمية لشركة **Etar** — مواقع ومنيو رقمي للمطاعم
-- ⚡ أنفّذ تحدّي **30 Projects in 30 Days** — مشروع كامل كل يوم
-- 🧩 أشتغل Full-Stack: من تصميم قاعدة البيانات إلى الـ UI النهائي
+<ul dir="auto">
+<li>🚚 بنيت منظومة <b>Monafiss</b> الكاملة — تطبيق عملاء، تطبيق سائقين، تطبيق مدراء، تجهيز الطلبات، ولوحة تحكم ويب</li>
+<li>🛒 طوّرت <b>Babk</b> — متجر إلكتروني متكامل: تطبيق العملاء، لوحة التحكم، والـ Backend</li>
+<li>🏢 أسست الواجهة الرقمية لشركة <b>Etar</b> — مواقع ومنيو رقمي للمطاعم</li>
+<li>⚡ أنفّذ تحدّي <b>30 Projects in 30 Days</b> — مشروع كامل كل يوم</li>
+<li>🧩 أشتغل Full-Stack من تصميم قاعدة البيانات إلى الواجهة النهائية</li>
+</ul>
 
 ---
 
@@ -55,14 +57,43 @@ class AbdulsalamFawzi {
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **Monafiss Platform** | منظومة توصيل متكاملة: عملاء، سائقين، مدراء، تجهيز الطلبات، ولوحة تحكم | `Flutter` `TypeScript` `Node.js` |
-| **Babk Store** | متجر إلكتروني كامل — تطبيق العملاء + Dashboard + Server | `TypeScript` `React` `PostgreSQL` |
-| [**Etar Website**](https://github.com/abdulsalamfawzi22/etar-website) | موقع شركة إطار للبرمجيات — تطوير التطبيقات والمواقع | `JavaScript` |
-| [**Etar Menus**](https://github.com/abdulsalamfawzi22/etar-menus) | محرّك المنيو الرقمي لعملاء إطار | `CSS` `JavaScript` |
-| [**Realtime Collab Editor**](https://github.com/abdulsalamfawzi22/realtime-collab-editor) | محرّر تعاوني لحظي مبني على Yjs CRDTs مع مؤشرات حضور مباشرة | `TypeScript` `Yjs` |
-| [**Daily Task Management**](https://github.com/abdulsalamfawzi22/Daily_task_management) | تطبيق إدارة مهام يومية بـ Flutter | `Dart` `Flutter` |
+<table>
+<thead>
+<tr><th>Project</th><th>Description</th><th>Tech</th></tr>
+</thead>
+<tbody>
+<tr>
+  <td><b>Monafiss Platform</b></td>
+  <td dir="auto">منظومة توصيل متكاملة: تطبيق عملاء، سائقين، مدراء، تجهيز الطلبات، ولوحة تحكم</td>
+  <td><code>Flutter</code> <code>TypeScript</code> <code>Node.js</code></td>
+</tr>
+<tr>
+  <td><b>Babk Store</b></td>
+  <td dir="auto">متجر إلكتروني كامل: تطبيق العملاء، لوحة التحكم، والسيرفر</td>
+  <td><code>TypeScript</code> <code>React</code> <code>PostgreSQL</code></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/abdulsalamfawzi22/etar-website"><b>Etar Website</b></a></td>
+  <td dir="auto">موقع شركة إطار للبرمجيات — تطوير التطبيقات والمواقع</td>
+  <td><code>JavaScript</code></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/abdulsalamfawzi22/etar-menus"><b>Etar Menus</b></a></td>
+  <td dir="auto">محرّك المنيو الرقمي لعملاء إطار</td>
+  <td><code>CSS</code> <code>JavaScript</code></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/abdulsalamfawzi22/realtime-collab-editor"><b>Realtime Collab Editor</b></a></td>
+  <td dir="auto">محرّر تعاوني لحظي مبني على CRDTs مع مؤشرات حضور مباشرة</td>
+  <td><code>TypeScript</code> <code>Yjs</code></td>
+</tr>
+<tr>
+  <td><a href="https://github.com/abdulsalamfawzi22/Daily_task_management"><b>Daily Task Management</b></a></td>
+  <td dir="auto">تطبيق إدارة مهام يومية مبني بـ Flutter</td>
+  <td><code>Dart</code> <code>Flutter</code></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -70,12 +101,8 @@ class AbdulsalamFawzi {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulsalamfawzi22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamfawzi22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=abdulsalamfawzi22&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamfawzi22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=cmake,c%2B%2B,swift,objective-c,ruby,shell,makefile" />
+<img height="170" src="https://streak-stats.demolab.com?user=abdulsalamfawzi22&theme=tokyonight&hide_border=true" />
 
 </div>
 
