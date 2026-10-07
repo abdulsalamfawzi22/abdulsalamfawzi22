@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Flutter+%2B+Node.js+%2B+PostgreSQL;Building+complete+business+systems;30+Projects+in+30+Days+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-abdulsalamfawzi22.github.io-1769aa?style=for-the-badge)](https://abdulsalamfawzi22.github.io)
+
 </div>
 
 ---
@@ -18,6 +22,7 @@ class AbdulsalamFawzi {
   String focus     = "Flutter Apps + Node.js APIs + Business Systems";
   String languages = "Arabic (native) | English";
   String building  = "Delivery platforms and e-commerce systems";
+  String portfolio = "abdulsalamfawzi22.github.io";
 
   List<String> stack = [
     "Flutter / Dart",
@@ -35,10 +40,11 @@ class AbdulsalamFawzi {
 ## 🔥 Highlights
 
 <ul dir="auto">
-<li>🚚 بنيت منظومة <b>Monafiss</b> الكاملة — تطبيق عملاء، تطبيق سائقين، تطبيق مدراء، تجهيز الطلبات، ولوحة تحكم ويب</li>
-<li>🛒 طوّرت <b>Babk</b> — متجر إلكتروني متكامل: تطبيق العملاء، لوحة التحكم، والـ Backend</li>
-<li>🏢 أسست الواجهة الرقمية لشركة <b>Etar</b> — مواقع ومنيو رقمي للمطاعم</li>
-<li>⚡ أنفّذ تحدّي <b>30 Projects in 30 Days</b> — مشروع كامل كل يوم</li>
+<li>📱 <b>ثلاثة تطبيقات منشورة على App Store</b> — منافس ماركت، منافس سواق، ولحظة إطار</li>
+<li>🚚 بنيت منظومة <b>Monafiss</b> الكاملة — خادم NestJS بـ <b>72 وحدة فوق 105 نماذج بيانات</b> يخدم خمسة تطبيقات ولوحة تحكم</li>
+<li>🖨️ أطلقت <b>لحظة إطار</b> تحت حساب المطوّر الخاص بي — متجر طباعة ثلاثية الأبعاد بتسعير مخصص وتتبّع على شاشة القفل</li>
+<li>🤖 بنيت <b>رونا</b> — مساعدة ذاتية داخل الواتساب: 83 أداة خلف محرّك صلاحيات من 100 سياسة</li>
+<li>🧾 طوّرت نظام محاسبة وموارد بشرية بأربع خدمات مع تكامل أجهزة بصمة <b>ZKTeco</b></li>
 <li>🧩 أشتغل Full-Stack من تصميم قاعدة البيانات إلى الواجهة النهائية</li>
 </ul>
 
@@ -63,9 +69,24 @@ class AbdulsalamFawzi {
 </thead>
 <tbody>
 <tr>
-  <td><b>Monafiss Platform</b></td>
-  <td dir="auto">منظومة توصيل متكاملة: تطبيق عملاء، سائقين، مدراء، تجهيز الطلبات، ولوحة تحكم</td>
-  <td><code>Flutter</code> <code>TypeScript</code> <code>Node.js</code></td>
+  <td><b>منافس ماركت</b><br/><a href="https://apps.apple.com/sa/app/id6771451344">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.monafiss.market">Google Play</a></td>
+  <td dir="auto">توصيل بقالة عند الطلب — 38 وحدة ميزة تشمل ممر VR ومساعد ذكاء اصطناعي ومكالمات داخل التطبيق</td>
+  <td><code>Flutter</code> <code>LiveKit</code> <code>HyperPay</code></td>
+</tr>
+<tr>
+  <td><b>لحظة إطار</b><br/><a href="https://apps.apple.com/sa/app/id6818992950">App Store</a></td>
+  <td dir="auto">متجر طباعة ثلاثية الأبعاد بتسعير مخصص وتتبّع الطلب على شاشة القفل — منشور تحت حسابي</td>
+  <td><code>NestJS</code> <code>React</code> <code>Flutter</code></td>
+</tr>
+<tr>
+  <td><b>منصة منافس</b><br/><a href="https://abdulsalamfawzi22.github.io/monafiss.html">دراسة الحالة</a></td>
+  <td dir="auto">خادم NestJS بـ 72 وحدة فوق 105 نماذج بيانات يخدم خمسة تطبيقات ولوحة تحكم</td>
+  <td><code>NestJS</code> <code>Prisma</code> <code>Redis</code></td>
+</tr>
+<tr>
+  <td><b>رونا</b><br/><a href="https://abdulsalamfawzi22.github.io/rona.html">دراسة الحالة</a></td>
+  <td dir="auto">مساعدة ذاتية في الواتساب — 83 أداة خلف محرّك صلاحيات من 100 سياسة</td>
+  <td><code>TypeScript</code> <code>LLM Agents</code></td>
 </tr>
 <tr>
   <td><b>Babk Store</b></td>
