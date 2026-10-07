@@ -77,10 +77,6 @@ class AbdulsalamFawzi {
 
 <img src="https://streak-stats.demolab.com?user=abdulsalamfawzi22&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=abdulsalamfawzi22&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
 </div>
 
 ---
