@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Abdulsalam%20Fawzi%20Alfarra&fontSize=36&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Flutter%20%2B%20Node.js%20%2B%20PostgreSQL&descAlignY=57&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Abdulsalam%20Fawzi%20Alfarra&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Flutter%20%2B%20Node.js%20%2B%20PostgreSQL&descAlignY=58&descSize=15" width="100%" />
 
 <a href="https://github.com/abdulsalamfawzi22">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Flutter+%2B+Node.js+%2B+PostgreSQL;Building+complete+business+systems;30+Projects+in+30+Days+%E2%9A%A1" alt="Typing SVG" />
@@ -120,6 +120,6 @@ class AbdulsalamFawzi {
 
 <img src="https://komarev.com/ghpvc/?username=abdulsalamfawzi22&style=flat-square&color=36BCF7" alt="Profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
 
 </div>
